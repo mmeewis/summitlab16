@@ -23,7 +23,7 @@ Bringing data from different channels is a tough task for any brand. And in this
 
 ![datasets.png](../resources/datasets.png)
 
-BT is using Adobe Analytics to capture Web Behavioral data and this data is available in the platform in “BT Website Interactions” dataset. Search for “BT Website Interactions”. As you can see the schema for this dataset if “Experience Event”. Experience Event schema is our standard schema to describe any activity done, which works well to capture web, mobile, IOT and other interaction data.
+BT is using Adobe Analytics to capture Web Behavioral data and this data is available in the platform in “BT Website Interactions” dataset. Search for “BT Website Interactions”. As you can see the schema for this dataset if “Experience Event”. Experience Event schema is our standard schema to describe any activity done, which works well to capture web, mobile, IOT and other interaction data, such as BT's callcenter interaction data.
 
 BT’s Callcenter Interaction data is captured in “BT Call Center Interactions” dataset. Search for “BT Call Center Interactions” (1) data in search box. Click on dataset (2) name to get dataset details.
 
