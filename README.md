@@ -12,7 +12,6 @@ The Query Service gives users the ability to query datasets in Adobe Experience 
   * Connect to Query Service and run your SQL queries
   * Explore datasets in Adobe Experience Platform
   * Connect Power BI to the Adobe Experience Platform  
-  * Query Service to create visualizations and reports
 
 ## Prerequisites
 
