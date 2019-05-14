@@ -27,7 +27,7 @@ How many product views do we have on a daily basis?
 select date_format( timestamp , 'yyyy-MM-dd') AS Day,
        count(*) AS productViews
 from   bt_website_interactions
-where  web.webPageDetails.URL like 'http://platformdemo.net/summit%'
+where  web.webPageDetails.URL like 'http://lab16.bt.com%'
 and    _platformlab05.productData.productInteraction = 'productView'
 group by Day
 limit 10;
