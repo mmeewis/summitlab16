@@ -28,6 +28,8 @@ The Query Service gives users the ability to query datasets in Adobe Experience 
 
 You will need a couple of things in order to successfully walk through the content of this lab.
 
+https://platform.adobe.com
+
 ### [Exercise 1 - Getting Started](exercises/1-getting-started.md)
 
 In this exercise you will explore the Adobe Experience Platform Query Service User Interface, learn about data sets, find your queries and finaly setup a connection from PSQL.
